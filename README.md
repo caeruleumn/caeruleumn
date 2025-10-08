@@ -1,38 +1,57 @@
-<h1 align="center">Hi 👋, I'm Keysa A.</h1>
-<h3 align="center">Turning coffee into code and ideas into reality.</h3>
+<h1 align="center">Heya 👋 I'm Keysa A.</h1>
+<h3 align="center">☕ Fueled by caffeine. Powered by curiosity. Built with chaos and love 💻💫</h3>
 
-<p align="left"> <a href="https://twitter.com/ocaeruleumn" target="blank"><img src="https://img.shields.io/twitter/follow/ocaeruleumn?logo=twitter&style=for-the-badge" alt="ocaeruleumn" /></a> </p>
-
-- 🔭 I’m currently studying on [SMK Negeri 4 Malang](https://smkn4malang.sch.id/)
-
-- 🌱 I’m currently learning **Next.js, TypeScript, and Flutter**
-
-- 👯 I’m looking to collaborate on **open-source projects related to web development, animations, and UI design.**
-
-- 🤝 I’m looking for help with **growing as a developer and contributing more to the community.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/caeruleumn](https://github.com/caeruleumn)
-
-- 📝 I regularly write articles on [https://medium.com/@caeruleumn](https://medium.com/@caeruleumn)
-
-- 💬 Ask me about **HTML, CSS, Javascript, PHP**
-
-- 📫 How to reach me **keysaaureliaa17@gmail.com**
-
-- ⚡ Fun fact **semicolons and I are in an on-again, off-again relationship**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ocaeruleumn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ocaeruleumn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/caeruleumn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caeruleumn" height="30" width="40" /></a>
-<a href="https://instagram.com/ocaeruleumn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ocaeruleumn" height="30" width="40" /></a>
-<a href="https://dribbble.com/caeruleumn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="caeruleumn" height="30" width="40" /></a>
-<a href="https://medium.com/@ocaeruleumn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ocaeruleumn" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.tenor.com/6eK1zR1YwEoAAAAC/coding-typing.gif" width="300"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caeruleumn&show_icons=true&locale=en&layout=compact" alt="caeruleumn" /></p>
+### 🌈 About Me
+- 🎓 Currently surviving at [SMK Negeri 4 Malang](https://smkn4malang.sch.id/)  
+- 🌱 Learning **Next.js**, **TypeScript**, and **Flutter** (send help pls 😭)  
+- 🛠️ Building random things until they magically work ✨  
+- 💬 Ask me about **HTML, CSS, JS, PHP** — I promise I’ll try not to cry.  
+- ⚡ Fun fact: semicolons and I are in an *on-and-off toxic relationship*.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caeruleumn&show_icons=true&locale=en" alt="caeruleumn" /></p>
+---
+
+### 🕹️ My Current Missions
+- 🤝 Collaborate on open-source chaos (aka web & UI stuff)
+- 💡 Turn coffee → code → bugs → solutions → repeat ☕
+
+---
+
+### 🌍 Find Me in the Wild
+<p align="left">
+  <a href="https://twitter.com/ocaeruleumn" target="blank"><img src="https://img.shields.io/twitter/follow/ocaeruleumn?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/caeruleumn" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ocaeruleumn" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://medium.com/@ocaeruleumn" target="blank"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge" alt="Medium" /></a>
+</p>
+
+📫 Hit me up at **keysaaureliaa17@gmail.com**
+
+---
+
+### 💻 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,flutter,typescript,python,cpp,git,figma,tailwind,mysql,dart&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Vibes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caeruleumn&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeruleumn&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### ☕ Bonus Meme
+<p align="center">
+  <img src="https://media.tenor.com/L6gYh9zYdUAAAAAC/developer-coding.gif" width="350"/>
+  <br/>
+  <i>"It works on my machine" — every dev ever</i>
+</p>
