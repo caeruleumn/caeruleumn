@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">heya, i'm keysa 👋</h1>
-<h3 align="center">☕ caffeine addict • chaos engineer • professional bug creator :D</h3>
+<h3 align="center">☕ caffeine addict • chaos engineer • professional bug creator  ^_____^ </h3>
 
 <p align="center">
   <img src="https://media.tenor.com/6eK1zR1YwEoAAAAC/coding-typing.gif" width="300"/>
@@ -13,11 +13,11 @@
 
 ## 🌙 quick intro before i disappear into code
 
-currently surviving high school at [SMK Negeri 4 Malang](https://smkn4malang.sch.id/) while pretending i know what i'm doing with **Next.js**, **TypeScript**, and **Flutter**. spoiler: i don't, but we learn by breaking things right? 
+currently surviving high school at [SMK Negeri 4 Malang](https://smkn4malang.sch.id/) (˶ᵔ ᵕ ᵔ˶) while pretending i know what i'm doing with **Next.js**, **TypeScript**, and **Flutter**  while my code judges me silently (╥﹏╥) but we learn by breaking things right?
 
-my coding process: google → stack overflow → cry → it works somehow → don't touch it again
+my daily routine: wake up → code → debug → stack overflow → cry → it works somehow →  celebrate → don't touch it again ♡
 
-honestly just vibing and building stuff until 3am because sleep is for the weak (jk please sleep)
+honestly just a random girl trying her best in this big coding world and building stuff until 3am because sleep is for the weak (jk please sleep ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧)
 
 ---
 
@@ -26,10 +26,11 @@ honestly just vibing and building stuff until 3am because sleep is for the weak 
 **rn:** trying to make computers do things they probably shouldn't
 
 **side quests:**
-- contributing to open source (read: fixing my own typos)
-- turning coffee into questionable code
-- having beef with semicolons on a daily basis
-- learning why "works on my machine" isn't a valid deployment strategy
+- building random projects at 2am (oopsie~)
+- learning why my code hates me (we're working on our relationship ♡)
+- fighting with semicolons (they're winning tbh)
+- drinking way too much coffee ☕💕
+- trying to understand TypeScript (pls send help)
 
 **future plans:** world domination through clean code (or at least code that runs)
 
@@ -40,12 +41,13 @@ honestly just vibing and building stuff until 3am because sleep is for the weak 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,flutter,typescript,python,cpp,git,figma,tailwind,mysql,dart&theme=light" />
 </p>
+<br>
 
-**comfortable with:** HTML, CSS, JS, PHP (we have history)
+**comfy with:** HTML, CSS, JS, PHP ♡
 
-**currently fighting with:** React, NextJS, and Laravel (why are you like this)
+**learning:** everything else while having mini panic attacks (it's fine~)
 
-**learning:** everything else while questioning my life choices
+**relationship status:** complicated with bugs 💔
 
 ---
 
@@ -62,7 +64,7 @@ honestly just vibing and building stuff until 3am because sleep is for the weak 
 
 ---
 
-## 📊 github wrapped but make it daily
+## 📊 my github is trying its best ૮꒰ ˶• ༝ •˶꒱ა
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caeruleumn&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -83,6 +85,11 @@ honestly just vibing and building stuff until 3am because sleep is for the weak 
 
 ---
 
+
 <p align="center">
-  <i>✨ thanks for stopping by! now go touch some grass (after you finish debugging) ✨</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" />
+  <i>thanks for visiting my lil corner of github!</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" />
+  <br/>
+  <sub>remember to drink water & be kind to your code~ (˶ᵔ ᵕ ᵔ˶)</sub>
 </p>
