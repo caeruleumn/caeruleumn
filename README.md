@@ -43,7 +43,7 @@ honestly just a random girl trying her best in this big coding world and buildin
 </p>
 <br>
 
-**comfy with:** HTML, CSS, JS, PHP ♡
+**comfy with:** HTML, CSS, C++, PHP, Dart, Python ♡
 
 **learning:** everything else while having mini panic attacks (it's fine~)
 
