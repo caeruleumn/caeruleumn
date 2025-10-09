@@ -47,7 +47,7 @@ honestly just a random girl trying her best in this big coding world and buildin
 
 **learning:** everything else while having mini panic attacks (it's fine~)
 
-**relationship status:** complicated with bugs 💔
+**relationship status:** complicated with bugs 💔 dating hoonie 𖹭
 
 ---
 
@@ -57,7 +57,7 @@ honestly just a random girl trying her best in this big coding world and buildin
   <a href="https://twitter.com/ocaeruleumn" target="blank"><img src="https://img.shields.io/twitter/follow/ocaeruleumn?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/caeruleumn" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ocaeruleumn" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
-  <a href="https://medium.com/@ocaeruleumn" target="blank"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge" alt="Medium" /></a>
+  <a href="https://medium.com/@caeruleumn" target="blank"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge" alt="Medium" /></a>
 </p>
 
 📧 slide into my inbox: **keysaaureliaa17@gmail.com**
